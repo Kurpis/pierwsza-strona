@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Amarante', cursive;
+}
+
+.menu li {
+    list-style: none;
+    padding: 12px 20px;
+    margin: 5px;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+.menu li:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    letter-spacing: 10px;
+    transition: 1.5s;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.obraz {
+    color: red;
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+    margin-top: 50px;
+}
+
+.obraz1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 15px;
+}
+
+.content p {
+    width: 50%;
+    border: black 2px solid;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    text-align: justify;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
