@@ -25,3 +25,13 @@ rozszeżenie(extansions)
 live serwer
 beautify
 --preferences->settings->Format on save (zaznaczyć)
+
+##github
+
+pobierz git dla windows -- 
+odpal konsole w lokalizacji projektu -- 
+ -- git init -- 
+ -- git add . -- 
+ -- git commit -m "nazwa"
+ -- git remote add origin URL -- 
+ -- git status -- 
